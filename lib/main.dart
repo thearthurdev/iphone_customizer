@@ -71,7 +71,7 @@ class _HomeState extends State<Home> {
     // The camera widgets are positioned relative to the camera bump so that
     // if we were to move the camera bump itself the camera positions would move with it
     // rather than stick to the back panel.
-    Widget cameraBumb = Container(
+    Widget cameraBump = Container(
       width: 80.0,
       height: 80.0,
       decoration: BoxDecoration(
@@ -227,7 +227,7 @@ class _HomeState extends State<Home> {
                     Positioned(
                       top: 5.0,
                       left: 5.0,
-                      child: cameraBumb,
+                      child: cameraBump,
                     ),
                     Align(
                       alignment: Alignment.center,
