@@ -1,16 +1,11 @@
 # iphone_customizer
 
-A new Flutter project.
+Customize the new iPhone 11 Pro Max in this fun little flutter project!
 
-## Getting Started
+# Some helpful resources
 
-This project is a starting point for a Flutter application.
+## How to create customm icons for your project
+https://medium.com/flutterpub/how-to-use-custom-icons-in-flutter-834a079d977
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter Material Color Picker
+https://pub.dev/packages/flutter_material_color_picker
