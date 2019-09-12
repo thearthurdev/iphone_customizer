@@ -146,7 +146,7 @@ class _HomeState extends State<Home> {
               ),
             ),
           ),
-          //Laser
+          //Microphone
           Positioned(
             right: 17.0,
             bottom: 9.0,
